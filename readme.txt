@@ -1,5 +1,5 @@
 ## Project Overview
-This project simulates a small customer service office network in Dortmund. 
+This project simulates a small customer service office network. 
 The goal was to provide **secure employee access** to tenant data while offering 
 **free Guest Wi-Fi** in the waiting room, ensuring complete separation between 
 the two networks so guests cannot access the employee database.
